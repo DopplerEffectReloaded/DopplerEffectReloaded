@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am Aditya Dharap a freshman at UW Madison with a interest in programming projects
+## I am Aditya Dharap, a UW-Madison freshman interested in programming projects.
 ### Projects I have worked on:
   - An IBDP grade management system using the python programming language.
   - An email spam classifier using the Naive Bayes algorithm, tested on the Enron Spam Dataset.
