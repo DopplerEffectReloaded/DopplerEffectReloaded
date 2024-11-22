@@ -1,6 +1,7 @@
 # Hi there 👋
 ## I am Aditya Dharap, a UW-Madison freshman interested in programming projects.
 ### Projects I have worked on:
+  - A prototype web application which allows users to find detailed recycling information on <u>**any**</u> object simply by clicking a picture. This was done using Flask, OpenAI API, firebase, javascript and object detection.
   - An IBDP grade management system using the python programming language.
   - An email spam classifier using the Naive Bayes algorithm, tested on the Enron Spam Dataset.
   - A pose estimation and classification algorithm using tensorflow's posenet as part of my workplace inclusivity project featured at the IB Festival of Hope.
