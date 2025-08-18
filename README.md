@@ -80,7 +80,7 @@ Sophomore at **UW–Madison**, passionate about building practical and impactful
 ### 🤝 Let’s Connect  
 - [LinkedIn](https://www.linkedin.com/in/aditya-dharap-bb28a726b/)  
 - [GitHub](https://github.com/DopplerEffectReloaded)  
-- 📧 Email: *[aditya.dharap3@gmail.com]*  
+- 📧 Email: *[adityadharap3@gmail.com]*  
 
 ---
 
