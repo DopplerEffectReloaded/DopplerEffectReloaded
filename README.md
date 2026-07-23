@@ -2,7 +2,7 @@
 
 **Computer Science @ UW-Madison** | **Software Lead @ Wisconsin Robotics** | **Research Assistant @ Knowledge & Concepts Lab**
 
-I am a systems and software engineer specializing in **autonomous robotics (ROS2, path planning, control loops)**, **distributed LLM evaluation pipelines**, and **high-throughput full-stack systems**. 
+I am an aspiring systems and software engineer specializing in **autonomous robotics (ROS2, path planning, control loops)**, **distributed LLM evaluation pipelines**, and **high-throughput full-stack systems**. 
 
 ---
 
